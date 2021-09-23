@@ -1,10 +1,11 @@
 # Zoe Oliver
 #### Interests:
-- Sodftware Development
-- Outdoor Activities: Hiking, swimming, skiing
-- Architecture
+- Software Development
+- Hiking, swimming, skiing
+- Architecture and design
 
 >Technical Background:
+> 
 >Software Development - Java 1&2, Introduction to Software Engineering, System Level Programming
 >Web Development - HTML/CSS, JavaScript
 >Information Management: NoSql, SQL, MongoDB, TableAu
